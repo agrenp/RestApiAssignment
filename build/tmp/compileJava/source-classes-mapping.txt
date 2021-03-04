@@ -1,0 +1,24 @@
+mashup/mashuprestservice/MashupConfiguration.java
+ mashup.mashuprestservice.MashupConfiguration
+mashup/mashuprestservice/client/data/MusicBrainzData.java
+ mashup.mashuprestservice.client.data.MusicBrainzData
+mashup/mashuprestservice/model/Artist.java
+ mashup.mashuprestservice.model.Artist
+mashup/mashuprestservice/client/MusicBrainzClient.java
+ mashup.mashuprestservice.client.MusicBrainzClient
+mashup/mashuprestservice/controller/ArtistController.java
+ mashup.mashuprestservice.controller.ArtistController
+mashup/mashuprestservice/client/WikipediaClient.java
+ mashup.mashuprestservice.client.WikipediaClient
+mashup/mashuprestservice/client/MashupClient.java
+ mashup.mashuprestservice.client.MashupClient
+mashup/mashuprestservice/client/data/WikiData.java
+ mashup.mashuprestservice.client.data.WikiData
+mashup/mashuprestservice/client/CoverArtArchiveClient.java
+ mashup.mashuprestservice.client.CoverArtArchiveClient
+mashup/mashuprestservice/client/data/CoverArtArchiveData.java
+ mashup.mashuprestservice.client.data.CoverArtArchiveData
+mashup/mashuprestservice/model/Album.java
+ mashup.mashuprestservice.model.Album
+mashup/mashuprestservice/MashupRestServiceApplication.java
+ mashup.mashuprestservice.MashupRestServiceApplication
